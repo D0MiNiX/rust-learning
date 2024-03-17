@@ -1,2 +1,2 @@
 # rust-leraning
-Learning rust
+Learning rust by following official documentation: https://doc.rust-lang.org/book/
